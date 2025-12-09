@@ -1,0 +1,17 @@
+{
+  "name": "jp.cukr2675.move-tmp-folder-to-packages",
+  "displayName": "Move TMP Folder To Packages",
+  "author": {
+    "name": "CUKR2675",
+    "url": "https://github.com/cukr2675"
+  },
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "description": "Moves 'TextMesh Pro' folder to Packages folder.",
+  "documentationUrl": "https://github.com/cukr2675/move-tmp-folder-to-packages",
+  "changelogUrl": "https://github.com/cukr2675/move-tmp-folder-to-packages/releases",
+  "licensesUrl": "https://github.com/cukr2675/move-tmp-folder-to-packages/blob/main/LICENSE",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  }
+}
